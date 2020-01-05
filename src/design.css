@@ -1,0 +1,20 @@
+.numberBox{
+    -fx-border-width: 0.5;
+	-fx-border-color:grey;
+	-fx-pref-width:85.7px;
+	-fx-pref-height:40px;
+}
+.numberBox:hover{
+	-fx-border-color:black;
+	-fx-border-width:2;
+}
+.buttonHBox{
+	-fx-pref-width:600px;
+	-fx-pref-height:40px;
+}
+.generateButton{
+	
+}
+.generateButton:hover{
+
+}
