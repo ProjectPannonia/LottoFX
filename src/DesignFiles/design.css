@@ -13,8 +13,16 @@
 	-fx-pref-height:40px;
 }
 .generateButton{
-	
+	-fx-pref-width:65px;
+	-fx-pref-height:30px;
 }
 .generateButton:hover{
-
+	-fx-pref-width:90px;
+	-fx-pref-width:35px;
+}
+.numberBoxFive{
+   -fx-pref-width:86;
+   -fx-border-width: 0.5;
+   -fx-border-color:grey;
+   -fx-pref-height:40px;
 }

@@ -1,9 +1,12 @@
+package Controllers;
+
+import Lotterys.Skandinav;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;
 import javafx.scene.control.Label;
 
-public class Controller {
+public class SevenController {
 
     @FXML
     Label first_lb,second_lb,third_lb,fourth_lb,fifth_lb,sixth_lb,seventh_lb;
