@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+
+<AnchorPane prefHeight="399.0" prefWidth="600.0" stylesheets="design.css" xmlns="http://javafx.com/javafx/11.0.1"
+            xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controllers.SixController">
+    <children>
+        <Button id="generate_bt" fx:id="generate_bt" layoutX="260.0" layoutY="216.0" mnemonicParsing="false"
+                onAction="#generateNumbers" styleClass="generateButton" stylesheets="design.css" text="Generate"/>
+        <HBox id="buttonHBox" fx:id="buttonHBox" layoutY="126.0" styleClass="buttonHBox" stylesheets="@design.css">
+            <children>
+                <Label id="first_lb" fx:id="first_lb" styleClass="numberBoxFive" stylesheets="@design.css"/>
+                <Label id="second_lb" fx:id="second_lb" styleClass="numberBoxFive" stylesheets="@design.css"/>
+                <Label id="third_lb" fx:id="third_lb" styleClass="numberBoxFive" stylesheets="@design.css"/>
+                <Label id="fourth_lb" fx:id="fourth_lb" styleClass="numberBoxFive" stylesheets="@design.css"/>
+                <Label id="fifth_lb" fx:id="fifth_lb" styleClass="numberBoxFive" stylesheets="@design.css"/>
+                <Label id="sixth_lb" fx:id="sixth_lb" styleClass="numberBoxFive" stylesheets="@design.css"/>
+            </children>
+        </HBox>
+    </children>
+</AnchorPane>

@@ -3,13 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="1e9037e8-83da-42b4-8a83-b316381287dc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controllers/FiveController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controllers/FiveController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controllers/SevenController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controllers/SevenController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignFiles/FiveStyle.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignFiles/FiveStyle.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignFiles/SevenStyle.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignFiles/SevenStyle.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lotterys/Five.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lotterys/Five.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controllers/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controllers/MainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controllers/SixController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controllers/SixController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Lotterys/Lotto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lotterys/Lotto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lotterys/Skandinav.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lotterys/Skandinav.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,9 +17,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="XSLT Stylesheet" />
-        <option value="FxmlFile" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="FxmlFile" />
       </list>
     </option>
   </component>

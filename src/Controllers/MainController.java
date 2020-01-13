@@ -12,7 +12,7 @@ public class MainController {
     Button SixLottery_bt, SevenLottery_bt,FiveLottery_bt;
 
     public void sixOnAction(ActionEvent e){
-        NewWindow sixLotteryWindow = new GiveNewWindow("DesignFiles/lotterySix.fxml","Six lottery");
+        NewWindow sixLotteryWindow = new GiveNewWindow("DesignFiles/SixStyle.fxml","Six lottery");
         sixLotteryWindow.createNewWindow();
     }
     public void sevenOnAction(ActionEvent e){

@@ -4,7 +4,6 @@ import java.util.Arrays;
 import java.util.Random;
 
 public class Lotto {
-    int[] numbers;
 
     protected int[] generateWinningNumbers(int[] emptyArray,int fields){
         int[] arrOfNumbers = emptyArray;
