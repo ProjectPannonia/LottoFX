@@ -2,23 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e9037e8-83da-42b4-8a83-b316381287dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LottoFX/Controller.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LottoFX/Lotto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LottoFX/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LottoFX/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LottoFX/Skandinav.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LottoFX/Ticket.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LottoFX/design.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LottoFX/style.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controllers/SevenController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lotto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lotterys/Lotto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Skandinav.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lotterys/Skandinav.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ticket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lotterys/Ticket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/design.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignFiles/design.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignFiles/SevenStyle.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controllers/FiveController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controllers/FiveController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controllers/SevenController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controllers/SevenController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignFiles/FiveStyle.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignFiles/FiveStyle.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignFiles/SevenStyle.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignFiles/SevenStyle.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lotterys/Five.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lotterys/Five.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lotterys/Lotto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lotterys/Lotto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lotterys/Skandinav.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lotterys/Skandinav.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,8 +22,8 @@
       <list>
         <option value="XSLT Stylesheet" />
         <option value="FxmlFile" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
