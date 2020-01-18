@@ -12,6 +12,7 @@
 	-fx-pref-width:600px;
 	-fx-pref-height:40px;
 }
+
 .generateButton{
 	-fx-pref-width:65px;
 	-fx-pref-height:30px;
@@ -25,4 +26,10 @@
    -fx-border-width: 0.5;
    -fx-border-color:grey;
    -fx-pref-height:40px;
+}
+.numberBoxSix{
+    -fx-pref-width:98;
+    -fx-pref-border-width:0.5;
+    -fx-border-color:grey;
+    -fx-pref-height:40px;
 }

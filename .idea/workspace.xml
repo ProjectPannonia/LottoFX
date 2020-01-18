@@ -4,8 +4,9 @@
     <list default="true" id="1e9037e8-83da-42b4-8a83-b316381287dc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Controllers/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controllers/MainController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controllers/SixController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controllers/SixController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lotterys/Lotto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lotterys/Lotto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignFiles/MainStyle.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignFiles/MainStyle.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignFiles/SixStyle.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignFiles/SixStyle.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignFiles/design.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignFiles/design.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +31,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Dictionary" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.2891326" />
     <property name="project.structure.side.proportion" value="0.2" />
