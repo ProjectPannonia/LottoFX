@@ -22,13 +22,19 @@
 	-fx-pref-width:35px;
 }
 .numberBoxFive{
-   -fx-pref-width:86;
+   -fx-pref-width:118;
    -fx-border-width: 0.5;
    -fx-border-color:grey;
    -fx-pref-height:40px;
 }
 .numberBoxSix{
     -fx-pref-width:98;
+    -fx-pref-border-width:0.5;
+    -fx-border-color:grey;
+    -fx-pref-height:40px;
+}
+.numberBoxSeven{
+    -fx-pref-width:83;
     -fx-pref-border-width:0.5;
     -fx-border-color:grey;
     -fx-pref-height:40px;

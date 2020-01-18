@@ -4,8 +4,7 @@
     <list default="true" id="1e9037e8-83da-42b4-8a83-b316381287dc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Controllers/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controllers/MainController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignFiles/MainStyle.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignFiles/MainStyle.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignFiles/SixStyle.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignFiles/SixStyle.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignFiles/SevenStyle.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignFiles/SevenStyle.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DesignFiles/design.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignFiles/design.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
