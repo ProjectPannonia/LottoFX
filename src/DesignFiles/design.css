@@ -1,41 +1,42 @@
-.numberBox{
-    -fx-border-width: 0.5;
-	-fx-border-color:grey;
-	-fx-pref-width:85.7px;
-	-fx-pref-height:40px;
-}
 .numberBox:hover{
 	-fx-border-color:black;
 	-fx-border-width:2;
 }
 .buttonHBox{
-	-fx-pref-width:600px;
+	-fx-pref-width:400px;
 	-fx-pref-height:40px;
 }
-
 .generateButton{
 	-fx-pref-width:65px;
 	-fx-pref-height:30px;
 }
-.generateButton:hover{
-	-fx-pref-width:90px;
-	-fx-pref-width:35px;
-}
 .numberBoxFive{
-   -fx-pref-width:118;
+   -fx-pref-width:80;
    -fx-border-width: 0.5;
    -fx-border-color:grey;
    -fx-pref-height:40px;
 }
 .numberBoxSix{
-    -fx-pref-width:98;
+    -fx-pref-width:64;
     -fx-pref-border-width:0.5;
     -fx-border-color:grey;
     -fx-pref-height:40px;
 }
 .numberBoxSeven{
-    -fx-pref-width:83;
+    -fx-pref-width:57;
     -fx-pref-border-width:0.5;
     -fx-border-color:grey;
     -fx-pref-height:40px;
+}
+.title_label{
+    -fx-pref-width:200;
+    -fx-font-size:20;
+}
+.anchorPane_left{
+    -fx-pref-width: 400;
+    -fx-pref-height:
+}
+.buttons{
+   -pref-width:140;
+   -pref-height:35;
 }

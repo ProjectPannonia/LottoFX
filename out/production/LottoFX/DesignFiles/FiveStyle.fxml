@@ -5,18 +5,18 @@
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.layout.HBox?>
 
-<AnchorPane prefHeight="399.0" prefWidth="600.0" stylesheets="design.css" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controllers.FiveController">
+<AnchorPane prefHeight="400" prefWidth="400" stylesheets="design.css" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controllers.FiveController">
     <children>
-        <Button id="generate_bt" fx:id="generate_bt" layoutX="260.0" layoutY="216.0" mnemonicParsing="false" onAction="#generateNumbers" styleClass="generateButton" stylesheets="design.css" text="Generate" />
+        <Button id="generate_bt" fx:id="generate_bt" layoutX="168.0" layoutY="207.0" mnemonicParsing="false" onAction="#generateNumbers" styleClass="generateButton" stylesheets="design.css" text="Generate" />
         <HBox id="buttonHBox" fx:id="buttonHBox" layoutY="126.0" styleClass="buttonHBox" stylesheets="@design.css">
             <children>
-                <Label id="first_lb" fx:id="first_lb" styleClass="numberBoxFive" stylesheets="@design.css" />
-                <Label id="second_lb" fx:id="second_lb" styleClass="numberBoxFive" stylesheets="@design.css" />
-                <Label id="third_lb" fx:id="third_lb" styleClass="numberBoxFive" stylesheets="@design.css" />
-                <Label id="fourth_lb" fx:id="fourth_lb" styleClass="numberBoxFive" stylesheets="@design.css" />
-                <Label id="fifth_lb" fx:id="fifth_lb" styleClass="numberBoxFive" stylesheets="@design.css" />
+                <Label id="first_lb" fx:id="first_lb" alignment="CENTER" styleClass="numberBoxFive" stylesheets="@design.css" textAlignment="CENTER" />
+                <Label id="second_lb" fx:id="second_lb" alignment="CENTER" styleClass="numberBoxFive" stylesheets="@design.css" textAlignment="CENTER" />
+                <Label id="third_lb" fx:id="third_lb" alignment="CENTER" styleClass="numberBoxFive" stylesheets="@design.css" textAlignment="CENTER" />
+                <Label id="fourth_lb" fx:id="fourth_lb" alignment="CENTER" styleClass="numberBoxFive" stylesheets="@design.css" textAlignment="CENTER" />
+                <Label id="fifth_lb" fx:id="fifth_lb" alignment="CENTER" styleClass="numberBoxFive" stylesheets="@design.css" textAlignment="CENTER" />
             </children>
         </HBox>
+      <Label alignment="CENTER" contentDisplay="CENTER" layoutX="100.0" layoutY="50.0" prefHeight="52.0" prefWidth="201.0" styleClass="title_label" stylesheets="@design.css" text="Ötös lottó" />
     </children>
 </AnchorPane>
-

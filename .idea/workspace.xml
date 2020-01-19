@@ -3,8 +3,19 @@
   <component name="ChangeListManager">
     <list default="true" id="1e9037e8-83da-42b4-8a83-b316381287dc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LottoFX/Controllers/MainController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LottoFX/Controllers/MainController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LottoFX/Controllers/SixController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LottoFX/Controllers/SixController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LottoFX/DesignFiles/FiveStyle.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LottoFX/DesignFiles/FiveStyle.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LottoFX/DesignFiles/MainStyle.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LottoFX/DesignFiles/MainStyle.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LottoFX/DesignFiles/SevenStyle.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LottoFX/DesignFiles/SevenStyle.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LottoFX/DesignFiles/SixStyle.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LottoFX/DesignFiles/SixStyle.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LottoFX/DesignFiles/design.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LottoFX/DesignFiles/design.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Controllers/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controllers/MainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controllers/SixController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controllers/SixController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignFiles/FiveStyle.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignFiles/FiveStyle.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignFiles/MainStyle.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignFiles/MainStyle.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DesignFiles/SevenStyle.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignFiles/SevenStyle.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignFiles/SixStyle.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignFiles/SixStyle.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DesignFiles/design.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignFiles/design.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,8 +29,8 @@
       <list>
         <option value="XSLT Stylesheet" />
         <option value="Interface" />
-        <option value="Class" />
         <option value="FxmlFile" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -79,6 +90,9 @@
       <updated>1577989414421</updated>
     </task>
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">

@@ -6,11 +6,12 @@ import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;
 import javafx.scene.control.Label;
+import javafx.scene.layout.AnchorPane;
 
 public class SixController implements Gear{
 
     @FXML
-    Button generate_bt;
+    Button generate_bt,back_bt;
     @FXML
     Label first_lb,second_lb,third_lb,fourth_lb,fifth_lb,sixth_lb;
 
@@ -24,5 +25,8 @@ public class SixController implements Gear{
         fourth_lb.setText(String.valueOf(numbers[3]));
         fifth_lb.setText(String.valueOf(numbers[4]));
         sixth_lb.setText(String.valueOf(numbers[5]));
+    }
+    public void backHandle(ActionEvent e){
+
     }
 }
